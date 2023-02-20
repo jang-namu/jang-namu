@@ -1,6 +1,6 @@
 ## Jang Chul Hee 👋
 
-#### 🌱 I’m currently learning ...
+#### 웹, 클라우드, 데이터에 관심있는 학생입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ironhee8005)](https://solved.ac/ironhee8005/)
 <!--
