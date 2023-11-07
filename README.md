@@ -1,6 +1,6 @@
 ## Jang Chul Hee 👋
 
-#### 웹에 관심있는 학생입니다.
+#### 개발문화와 생태계를 사랑하는 개발자. 장철희입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ironhee8005)](https://solved.ac/ironhee8005/)
 <!--
