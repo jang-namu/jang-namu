@@ -1,46 +1,40 @@
-## 소개 🌱
+## About Me 🌱
+Backend developer passionate about data engineering and cloud-native technologies. I value knowledge sharing and actively participate in developer communities to grow together.
 
-개발 문화와 커뮤니티를 사랑하는 개발자입니다. 지식 공유와, 기여, 함께 성장하는 개발 문화를 소중히 여깁니다. 백엔드 개발, 데이터 엔지니어링, 클라우드 네이티브 환경을 중심으로 다양한 개발자 커뮤니티에 참여하며 집단 지성의 힘을 실천하고 있습니다.
+## 🛠 Tech Stack
 
-### 🛠 기술 스택
+**Backend & Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**주요 기술**
-- Java & Spring Framework 생태계
-- Python 스크립팅
-- 클라우드 네이티브 기술 (Kubernetes, Docker)
-- 데이터 엔지니어링 (Hadoop, Spark)
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**인프라 & 도구**
-- Git
-- AWS
-- Linux
+**Data Engineering**  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-### 🎯 개발 철학
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 이해하기 쉽고 유지보수가 용이한 코드 작성
-- 일관된 코딩 컨벤션 준수
-- 확장 가능하고 탄력적인 시스템 구축
-- CS 기본 개념에 대한 깊은 이해
-- 개발자 커뮤니티 참여와 기여
+## 🎯 Development Philosophy
+- Writing clean, maintainable code
+- Strong understanding of CS fundamentals
+- Continuous learning and knowledge sharing
 
-### 💼 경험
+## 💼 Experience
+- Hyundai Softeer Bootcamp
+- Cloud Security Lab Intern
+- GDG on Campus INU (1st gen)
+- Incheon University App Center (15.5th gen)
+- Cloud Club (4-6th gen)
 
-- **GDG on Campus INU** (1기 코어)
-- **인천대학교 앱센터** (15.5기)
-- **클라우드 클럽** (4~6기)
-- **클라우드 보안 연구실 인턴** (4개월)
-- **현대 소프티어 부트캠프** (2개월)
-
-### 🎯 장기 목표
-
-저의 궁극적인 목표는 다음과 같은 기술 전문가가 되는 것입니다:
-- CS의 불변하는 기본기를 마스터하고
-- 새로운 기술 분야를 개척하며
-- 개발자 커뮤니티에 적극적으로 기여하고
-- 동료 개발자들에게 영감을 주는 개발자
-
-### 📫 연락처
-
-- GitHub: [@jang-namu](https://github.com/jang-namu)
-- e-Mail: ironhee8005@gmail.com
-- LinkedIn: [Jang Chulhee](https://www.linkedin.com/in/jang-chulhee-810b78294/)
+## 📫 Contact
+- Email: ironhee8005@gmail.com
+- LinkedIn: [Chulhee Jang](https://www.linkedin.com/in/jang-chulhee-810b78294/)
